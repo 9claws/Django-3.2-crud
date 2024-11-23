@@ -2,7 +2,7 @@ name: Django project deploy
 
 on:
   push:
-    branches: [master]
+    branches: [main]
 
 jobs:
   testing:
